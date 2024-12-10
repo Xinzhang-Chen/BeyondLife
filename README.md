@@ -26,7 +26,70 @@
 - ⚙️ **Dynamic Configurations**  
   Adaptable workflows for managing cloud storage, email, social media, or any other platform you choose.
 
+
 ---
+
+## 📸 Screenshots
+
+Take a look at some screenshots of BeyondLife in action!
+
+<div align="center">
+
+
+### User Login and Registration
+<img src="https://github.com/user-attachments/assets/00a3256a-28f1-4454-a099-5e3e68caf6d8" alt="Heir Config 1" width="250">
+<img src="https://github.com/user-attachments/assets/715ad89c-8afb-490f-83ca-77225fde0a10" alt="Heir Config 2" width="250">
+<img src="https://github.com/user-attachments/assets/ba76aac4-d65b-47d9-97ed-4b65224af8a4" alt="Heir Config 3" width="250">
+
+### Connect to Cloud Platforms
+<img src="https://github.com/user-attachments/assets/c62d82d0-941d-4152-8fa8-4301aa2effc2" alt="Heir Config 3" width="250">
+<img src="https://github.com/user-attachments/assets/d641e9a0-8d6a-4cbd-9c5f-9fae41c80ebb" alt="Heir Config 2" width="250">
+<img src="https://github.com/user-attachments/assets/337efa98-302a-45f4-bac3-fe30e7224ec9" alt="Heir Config 1" width="250">
+
+
+### Heir Configuration  
+<img src="https://github.com/user-attachments/assets/f7840060-7d73-4da6-9684-e62f8649d59a" alt="Heir Config 1" width="250">
+<img src="https://github.com/user-attachments/assets/f726caef-1f82-47ab-b8c8-ffb392eeedf8" alt="Heir Config 2" width="250">
+<img src="https://github.com/user-attachments/assets/75918d5f-22a5-4766-8c73-e68b2d199e62" alt="Heir Config 3" width="250">
+
+<img src="https://github.com/user-attachments/assets/431c1dbc-fea0-4c6f-b75c-cd27f79821cf" alt="Heir Config 2" width="250">
+<img src="https://github.com/user-attachments/assets/ad73c491-d318-4d61-9e61-0123d33c7f94" alt="Heir Config 3" width="250">
+<img src="https://github.com/user-attachments/assets/44231f9e-0b8e-4110-82f1-c1bae541e0af" alt="Heir Config 3" width="250">
+
+
+### Interactive Will Setup  
+<img src="https://github.com/user-attachments/assets/b7f53b02-b8f6-42f5-a8e3-40068ac69bb6" alt="Will Setup 1" width="250">
+<img src="https://github.com/user-attachments/assets/c7fc557d-e260-4ada-9237-c215902bfa3e" alt="Will Setup 2" width="250">
+<img src="https://github.com/user-attachments/assets/bc01738d-cda4-4f40-8606-b024c66c60ba" alt="Will Setup 3" width="250">
+
+<img src="https://github.com/user-attachments/assets/a9f992c4-144c-401c-8d5b-5ec256c8390c" alt="Will Setup 1" width="250">
+<img src="https://github.com/user-attachments/assets/2bdfbe6e-56cf-4db3-aab6-72689e491663" alt="Will Setup 2" width="250">
+<img src="https://github.com/user-attachments/assets/f842d61e-467a-4d98-8482-3d5d54ce1f86" alt="Will Setup 3" width="250">
+
+<img src="https://github.com/user-attachments/assets/62de8a8e-23de-4631-b92a-a3d0e914bee1" alt="Will Setup 1" width="250">
+<img src="https://github.com/user-attachments/assets/8e4d0284-7dfd-4950-b7a8-b13de47c4a8d" alt="Will Setup 2" width="250">
+<img src="https://github.com/user-attachments/assets/c846992b-3f8d-42b0-a33c-37c4a3e9ff44" alt="Will Setup 3" width="250">
+
+
+
+
+
+
+
+
+### Will Activation
+<img src="https://via.placeholder.com/400x250" alt="Data Upload 1" width="250">
+<img src="https://via.placeholder.com/400x250" alt="Data Upload 2" width="250">
+<img src="https://via.placeholder.com/400x250" alt="Data Upload 3" width="250">
+
+### Accessing inherited data
+<img src="https://via.placeholder.com/400x250" alt="Data Upload 1" width="250">
+<img src="https://via.placeholder.com/400x250" alt="Data Upload 2" width="250">
+<img src="https://via.placeholder.com/400x250" alt="Data Upload 3" width="250">
+
+</div>
+---
+
 
 ## 🎉 Live Demo
 
