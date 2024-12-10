@@ -64,8 +64,19 @@ This repository contains **no source code**—it serves solely as a demonstratio
 
 ---
 
+❗️ **Demo Version Details**:
+
+The current demo version is a **simplified version** of the full application. It currently supports setting up a digital will for **X (formerly Twitter)**, while support for **Gmail** and **Google Drive** will be included in the full version.  
+
+To ensure **data security for demo users** (e.g., avoiding accidental deletion of personal tweets), the demo allows users to link their private Twitter accounts but does **not use the authorized token** to retrieve or modify any data. Instead, predefined **sample tweets** are provided for testing purposes.
+
+However, the **cloud storage link is fully functional** in this demo version. During interactions, **BeyondLife** will upload encrypted data to the demo user’s cloud storage.
+
+
+---
+
 ## 🚀 Ready to Secure Your Digital Legacy?
 
 Click below to take the first step toward simplifying your posthumous data management:
 
-👉 **[🌟 Try the Demo Now!](https://expo.dev/accounts/xinzhang9091/projects/digitalWill/builds/ab94c5f5-80aa-4059-ad8f-279980712374)** 👈
+👉 **[Try the Demo Now!](https://expo.dev/accounts/xinzhang9091/projects/digitalWill/builds/ab94c5f5-80aa-4059-ad8f-279980712374)** 👈
