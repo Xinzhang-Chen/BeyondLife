@@ -23,6 +23,18 @@
 
 - 🔒 **Privacy-Focused Security**  
   No leaks, no risks! Your data stays encrypted and accessible only to your trusted recipients.
+  In BeyondLife, we implemented and integrated a customized Attribute-Based Encryption (ABE) scheme, called PD-CP-ABE (Partially Decryptable Ciphertext Policy Attribute-Based Encryption).
+
+
+✨ **Explore the PD-CP-ABE Implementation:** [Visit the PD-CP-ABE Repo](https://github.com/Xinzhang-Chen/BeyondLife_PD-CP-ABE)
+
+#### Performance Comparison of PD-CP-ABE and bsw07
+
+| **File Size (Files)** | **PD-CP-ABE (s)** Avg Time | **PD-CP-ABE (s)** Std Dev | **bsw07 (s)** Avg Time | **bsw07 (s)** Std Dev |
+|-----------------------|---------------------------|---------------------------|------------------------|-----------------------|
+| **5**                 | 0.1652                   | 0.0532                    | 0.1513                | 0.0047                |
+| **160**               | 0.8574                   | 0.0057                    | 3.6726                | 0.0239                |
+| **1500**              | 0.8719                   | 0.0169                    | 31.5530               | 0.1992                |
 
 - ⚙️ **Dynamic Configurations**  
   Adaptable workflows for managing cloud storage, email, social media, or any other platform you choose.
