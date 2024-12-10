@@ -28,7 +28,7 @@
 
 ✨ **Explore the PD-CP-ABE Implementation:** [Visit the PD-CP-ABE Repo](https://github.com/Xinzhang-Chen/BeyondLife_PD-CP-ABE)
 
-#### Performance Comparison of PD-CP-ABE and bsw07
+#### Encryption Performance Comparison of PD-CP-ABE and bsw07
 
 | **File Size (Files)** | **PD-CP-ABE (s)** Avg Time | **PD-CP-ABE (s)** Std Dev | **bsw07 (s)** Avg Time | **bsw07 (s)** Std Dev |
 |-----------------------|---------------------------|---------------------------|------------------------|-----------------------|
