@@ -1,7 +1,7 @@
-<img width="1448" alt="BeyondLife" src="https://github.com/user-attachments/assets/dc7b41aa-cd8a-49fe-b91e-8c9238410df7">
+<img width="1448" alt="BeyondLife" src="https://github.com/user-attachments/assets/c3562110-05b5-4c85-9a19-03bf19a1b185">
 
 
-# 💡 BeyondLife: A Digital Will Prototype 💻
+# 💡 BeyondLife: Third-Party Digital Will Application 💻
 
 [![Expo](https://img.shields.io/badge/Expo-Demo-green)](https://expo.dev/accounts/xinzhang9091/projects/digitalWill/builds/ab94c5f5-80aa-4059-ad8f-279980712374)
 [![React Native](https://img.shields.io/badge/React%20Native-Framework-purple)](https://reactnative.dev)
