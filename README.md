@@ -1,74 +1,71 @@
 <img width="1448" alt="BeyondLife" src="https://github.com/user-attachments/assets/f8000fe6-c53f-4fca-85d4-40c96a9f6f3b">
 
-# BeyondLife: A Digital Will Prototype
+# 💡 BeyondLife: A Digital Will Prototype 💻
 
-[![Expo](https://img.shields.io/badge/Expo-Demo-green)](https://expo.dev)
-[![React Native](https://img.shields.io/badge/React%20Native-Interactive-purple)](https://reactnative.dev)
+[![Expo](https://img.shields.io/badge/Expo-Demo-green)](https://expo.dev/accounts/xinzhang9091/projects/digitalWill/builds/ab94c5f5-80aa-4059-ad8f-279980712374)
+[![React Native](https://img.shields.io/badge/React%20Native-Framework-purple)](https://reactnative.dev)
 
-
-Welcome to **BeyondLife**, an innovative prototype app that transforms the concept of a digital legacy into a simplified interactive experience. The project aims to explore the future of posthumous data management, making it simple and easy to set up, manage, and securely share a digital will.
-
-
+✨ Welcome to **BeyondLife**, an innovative prototype app that transforms the concept of a digital legacy into a simplified interactive experience. The project aims to explore the future of posthumous data management, making it simple and easy to set up, manage, and securely share a digital will. 🔒
 
 ---
 
-## Key Features
+## 🌟 Key Features
 
 - 🧭 **Interactive Will Setup**  
-  A guided and engaging process for adding heirs, configuring access permissions, and customizing your digital legacy.
+  Embark on a guided and fun journey to add heirs, assign permissions, and craft your digital legacy in just a few clicks.
 
 - 🔗 **Cross-Platform Integration**  
-  Supports seamless connection to popular platforms like Google Drive and Twitter to manage your data.
+  Easily connect to platforms like Google Drive and Twitter to manage and secure your digital treasures.
 
 - 🎨 **Visually Intuitive Design**  
-  Designed with simplicity and clarity, ensuring users of all tech backgrounds can navigate the system.
+  Built with simplicity in mind—whether you're a tech whiz or not, BeyondLife has you covered!
 
-- 🔒 **Privacy-Focused**  
-  Keeps your configurations secure with encryption and ensures data is shared only with intended recipients.
+- 🔒 **Privacy-Focused Security**  
+  No leaks, no risks! Your data stays encrypted and accessible only to your trusted recipients.
 
 - ⚙️ **Dynamic Configurations**  
-  Tailors the experience based on different platforms, offering specific workflows for managing cloud storage, email, or social media.
+  Adaptable workflows for managing cloud storage, email, social media, or any other platform you choose.
 
 ---
 
-## Live Demo
+## 🎉 Live Demo
 
-The demo is hosted on **Expo**, simply follow the link below to try it out on your device:
+📱 Want to see it in action? Access the live demo now via Expo:
 
-**[🚀 Launch the Demo](https://expo.dev/@YourUsername/BeyondLife)**
+👉 **[🚀 Launch the Demo](https://expo.dev/accounts/xinzhang9091/projects/digitalWill/builds/ab94c5f5-80aa-4059-ad8f-279980712374)** 👈
 
-> **Note**: The app is hosted as a prototype and may experience performance limitations depending on device and network conditions.
+> **Note**: As this is a prototype, performance may vary based on your device and network speed.  
+> Additionally, the backend server is deployed on a personal desktop and may not be available 24/7.
+---
+
+## 🔮 Future Potential
+
+While BeyondLife is already paving the way for digital legacy management, there's always room to grow! Here’s what could be next:
+
+1. 🤖 **AI-Assisted Guidance**  
+   Let AI simplify complex setups and guide you through estate planning like a pro.
+
+2. 🌐 **Expanded Platform Support**  
+   Add integrations for services like Dropbox, Instagram, and more.
+
+3. 📜 **Legal Compliance**  
+   Align the app with international legal standards to make your digital will enforceable across borders.
+
+4. 🌈 **Personalized Experiences**  
+   Offer customizable themes and tailored recommendations for a more personal touch.
 
 ---
 
-## Future Potential
+## ⚠️ Disclaimer
 
-While this prototype demonstrates the feasibility of a digital will system, there’s a lot more to explore:
+This repository contains **no source code**—it serves solely as a demonstration resource for the **BeyondLife** prototype hosted via Expo.
 
-1. **AI-Assisted Guidance**  
-   Offer AI-driven recommendations to simplify configuration for complex digital estates.
-
-2. **Expanded Integrations**  
-   Incorporate additional platforms like Dropbox, Instagram, or personal cloud services.
-
-3. **Legal Frameworks**  
-   Integrate with local legal standards to make digital wills more robust and enforceable.
+🔍 **BeyondLife** is designed for research and concept exploration. It is **not intended for production use** or the management of sensitive personal data. Evaluate and enjoy this app as a prototype, not as a finalized product. 
 
 ---
 
-## Acknowledgments
+## 🚀 Ready to Secure Your Digital Legacy?
 
-This project is part of a broader research initiative to explore the intersection of technology and digital legacies. Special thanks to contributors, testers, and reviewers who helped bring this prototype to life.
+Click below to take the first step toward simplifying your posthumous data management:
 
----
-
-## Disclaimer
-
-This repository contains **no source code**—it serves as a resource for demonstrating the concept and hosting the app via Expo.  
-
-BeyondLife is a prototype for research purposes only. It is not intended for production use or the management of sensitive personal data. Users should evaluate the app as a conceptual demonstration and not as a final product.
-
----
-
-Ready to explore the future of digital legacies?  
-[**Try the Demo Now**](https://expo.dev/@YourUsername/BeyondLife)  
+👉 **[🌟 Try the Demo Now!](https://expo.dev/accounts/xinzhang9091/projects/digitalWill/builds/ab94c5f5-80aa-4059-ad8f-279980712374)** 👈
