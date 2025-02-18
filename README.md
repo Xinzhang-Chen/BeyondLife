@@ -188,7 +188,7 @@ If you find this work useful or inspire your idea, please consider citing our pa
 
 ---
 
-## License
+## 📝 License
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
