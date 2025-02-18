@@ -189,7 +189,7 @@ If you find this work useful or inspire your idea, please consider citing our pa
 ---
 
 ## 📝 License
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 
 ---
 
