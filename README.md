@@ -54,7 +54,9 @@ For a quick overview, please refer to the [📸 screenshots](#screenshots) and [
 
 ## Demo Video
 
-🎬 Watch a quick **BeyondLife** demonstration:  
+🎬 Watch a quick **BeyondLife** demonstration:
+
+(🔊 **Turn up the volume for the full experience—there's background music!** 🎶)
 
 https://github.com/user-attachments/assets/f86febd1-15be-4c5a-bfeb-838b4e7e32ac
 
