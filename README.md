@@ -5,8 +5,21 @@
 
 [![Expo](https://img.shields.io/badge/Expo-Demo-green)](https://expo.dev/accounts/xinzhang9091/projects/digitalWill/builds/ab94c5f5-80aa-4059-ad8f-279980712374)
 [![React Native](https://img.shields.io/badge/React%20Native-Framework-purple)](https://reactnative.dev)
+![License: MIT](https://img.shields.io/badge/license-MIT-lemo)
+
+
 
 ✨ Welcome to **BeyondLife**, an innovative prototype app that transforms the concept of a digital legacy into a simplified interactive experience. The project aims to explore the future of posthumous data management, making it simple and easy to set up, manage, and securely share a digital will. 🔒
+
+This repository provides an open-access implementation related to our research paper submitted to [WWW25](https://www2025.thewebconf.org) (International World Wide Web Conference 2025). It contains a lightweight prototype that demonstrates key functionalities discussed in the paper below.
+
+> **"BeyondLife: Third-Party Digital Will Application"**\
+> *Xinzhang Chen, Arash Shaghaghi, Jesse Laeuchli and Salil S. Kanhere*\
+> *Published at WWW Companion '25*\
+> [Read it on ACM DL](https://doi.org/10.1145/3701716.3715168)
+
+
+For a quick overview, please refer to the [📸 screenshots](#screenshots) and [🎥demo video](#demo-video) below.
 
 ---
 
@@ -36,13 +49,18 @@
 | **160**               | 0.8574                   | 0.0057                    | 3.6726                | 0.0239                |
 | **1500**              | 0.8719                   | 0.0169                    | 31.5530               | 0.1992                |
 
-- ⚙️ **Dynamic Configurations**  
-  Adaptable workflows for managing cloud storage, email, social media, or any other platform you choose.
-
 
 ---
 
-## 🎉 Live Demo
+## Demo Video
+
+🎬 Watch a quick **BeyondLife** demonstration:  
+
+https://github.com/user-attachments/assets/f86febd1-15be-4c5a-bfeb-838b4e7e32ac
+
+---
+
+## Try in Practice
 
 📱 Want to see it in action? Access the live demo now via Expo:
 
@@ -50,7 +68,13 @@
 
 > **Note**: As this is a prototype, performance may vary based on your device and network speed.  
 > Additionally, the backend server is deployed on a personal desktop and may not be available 24/7.
+
+Via **local installation**:  
+
+- 📲 **Android** → [Download Here]()  
+- 🍏 **iOS** → [Download Here]()  
 ---
+
 
 ## 🔮 Future Potential
 
@@ -72,7 +96,7 @@ While BeyondLife is already paving the way for digital legacy management, there'
 
 ## ⚠️ Disclaimer
 
-This repository contains **no source code**—it serves solely as a demonstration resource for the **BeyondLife** prototype hosted via Expo.
+This repository contains **no source code**—it serves solely as a demonstration resource for the **BeyondLife** prototype hosted via Expo, and pre-built Android and iOS bundles are also available for local installation.
 
 🔍 **BeyondLife** is designed for research and concept exploration. It is **not intended for production use** or the management of sensitive personal data. Evaluate and enjoy this app as a prototype, not as a finalized product. 
 
@@ -90,7 +114,7 @@ However, the **cloud storage link is fully functional** in this demo version. Du
 ---
 
 
-## 📸 Screenshots
+## Screenshots
 
 Take a look at some screenshots of BeyondLife in action!
 
@@ -149,4 +173,4 @@ Take a look at some screenshots of BeyondLife in action!
 
 Click below to take the first step toward simplifying your posthumous data management:
 
-👉 **[Try the Demo Now!](https://expo.dev/accounts/xinzhang9091/projects/digitalWill/builds/ab94c5f5-80aa-4059-ad8f-279980712374)** 👈
+👉 **[Try the Demo Now!](#try-in-practice)** 👈
