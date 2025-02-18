@@ -62,17 +62,19 @@ https://github.com/user-attachments/assets/f86febd1-15be-4c5a-bfeb-838b4e7e32ac
 
 ## Try in Practice
 
-📱 Want to see it in action? Access the live demo now via Expo:
+📱 Want to see it in action? Via **local installation**:  
 
-👉 **[🚀 Launch the Demo](https://expo.dev/accounts/xinzhang9091/projects/digitalWill/builds/ab94c5f5-80aa-4059-ad8f-279980712374)** 👈
+- 📲 **Android APK** → [Download Here](https://github.com/Xinzhang-Chen/BeyondLife/tree/main/Installations/Android)  
+- 🍏 **iOS APP** → [Download Here](https://github.com/Xinzhang-Chen/BeyondLife/tree/main/Installations/IOS)  
+
+
+Access the live demo now via Expo:
+
+👉 **🚀 Launch the Demo: [IOS](https://expo.dev/accounts/xinzhang9091/projects/digitalWill/builds/0a6927c6-0d63-4080-bd5b-20167d4cb7e1) | [Android](https://expo.dev/accounts/xinzhang9091/projects/digitalWill/builds/b6baf644-da91-4437-b550-f6e6afc8e0db)** 👈
 
 > **Note**: As this is a prototype, performance may vary based on your device and network speed.  
 > Additionally, the backend server is deployed on a personal desktop and may not be available 24/7.
 
-Via **local installation**:  
-
-- 📲 **Android** → [Download Here]()  
-- 🍏 **iOS** → [Download Here]()  
 ---
 
 
@@ -166,8 +168,31 @@ Take a look at some screenshots of BeyondLife in action!
 
 </div>
 
+---
+## 📖 Citation
+
+If you find this work useful or inspire your idea, please consider citing our paper:
+```bibtex
+@inproceedings{BeyondLife2025,
+  author    = {Xinzhang Chen and Arash Shaghaghi and Jesse Laeuchli and Salil S. Kanhere},
+  title     = {BeyondLife: Third-Party Digital Will Application},
+  booktitle = {Companion Proceedings of the ACM Web Conference 2025 (WWW Companion '25)},
+  year      = {2025},
+  location  = {Sydney, NSW, Australia},
+  publisher = {ACM},
+  pages     = {4},
+  doi       = {10.1145/3701716.3715168},
+  url       = {https://doi.org/10.1145/3701716.3715168}
+}
+```
 
 ---
+
+## License
+Distributed under the MIT License. See `LICENSE` for more information.
+
+---
+
 
 ## 🚀 Ready to Secure Your Digital Legacy?
 
