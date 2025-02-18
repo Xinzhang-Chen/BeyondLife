@@ -3,9 +3,9 @@
 
 # 💡 BeyondLife: Third-Party Digital Will Application 💻
 
-[![Expo](https://img.shields.io/badge/Expo-Demo-green)](https://expo.dev/accounts/xinzhang9091/projects/digitalWill/builds/ab94c5f5-80aa-4059-ad8f-279980712374)
-[![React Native](https://img.shields.io/badge/React%20Native-Framework-purple)](https://reactnative.dev)
+[![Expo](https://img.shields.io/badge/Expo-Demo-purple)](#try-in-practice)
 ![License: MIT](https://img.shields.io/badge/license-MIT-lemo)
+[![DOI](https://zenodo.org/badge/901064502.svg)](https://doi.org/10.5281/zenodo.14886040)
 
 
 
